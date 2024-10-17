@@ -8,5 +8,4 @@ printf("\nenter the 2nd number");
 scanf("%d",&b);
 large=(a>b?a:b);
 printf("the larger number is %d");
-getch();
 }
