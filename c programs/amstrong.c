@@ -9,12 +9,12 @@ int main()
     og1=n;
     while(og!=0)
     {
-        n=n/10;
+        og=og/10;
         i++;
     }
     while(og1!=0)
     {
-        rm=og%10;
+        rm=og1%10;
         sum=sum+pow(rm,i);
         og1=og1/10;
     }
