@@ -1,3 +1,4 @@
+//find the force 
 #include<stdio.h>
 float force(float,float);
 float force( float m,float g )

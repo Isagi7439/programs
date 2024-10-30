@@ -1,3 +1,4 @@
+//print the nth term of a fibonacci series using function
 #include<stdio.h>
 int fibo(int);
 int fibo(int a)

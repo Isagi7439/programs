@@ -1,3 +1,4 @@
+//print 1 to 10 without 5
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//find the greatest among n numbers
 #include<stdio.h>
 int main()
 {

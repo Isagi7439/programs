@@ -1,3 +1,4 @@
+//find the nmaximum, minimun, average of n numbers
 #include<stdio.h>
 int main()
 {

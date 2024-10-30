@@ -1,3 +1,4 @@
+//average of 3 numbers using function
 #include<stdio.h>
 float average(int,int,int);
 float average(int num1, int num2, int num3)

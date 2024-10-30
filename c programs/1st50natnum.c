@@ -1,3 +1,4 @@
+//1st 50 natural numbers
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//find the greatest among 3 numbers using if else
 #include<stdio.h>
 int main()
 {
