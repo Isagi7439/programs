@@ -1,3 +1,4 @@
+//find addition,subtraction,multiplication and division result using switch case
 #include<stdio.h>
 int main()
 {

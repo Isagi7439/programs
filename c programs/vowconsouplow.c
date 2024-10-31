@@ -1,3 +1,4 @@
+//check if a character is uppercase/lowercase vowel or uppercase/lowercase consonant  using if else
 #include<stdio.h>
 int main()
 {

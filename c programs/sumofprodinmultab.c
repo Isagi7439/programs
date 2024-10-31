@@ -1,3 +1,4 @@
+//sum of product in multiplication table
 #include<stdio.h>
 int main()
 {

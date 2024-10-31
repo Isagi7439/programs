@@ -1,3 +1,4 @@
+//print the half triangle pattern
 #include<stdio.h>
 int pattern(int);
 int pattern(int n)

@@ -1,4 +1,5 @@
-//conditions= Has to get total percentage 40+ and individual subjects 33+, total marks in each sub=100
+/*check whether a student has passed or failed
+Conditions= Has to get total percentage 40+ and individual subjects 33+, total marks in each sub=100*/
 #include<stdio.h>
 int main()
 {

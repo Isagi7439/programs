@@ -1,3 +1,4 @@
+//print the multiplication table of a number in reverse
 #include<stdio.h>
 int main()
 {

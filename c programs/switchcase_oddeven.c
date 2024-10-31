@@ -1,3 +1,4 @@
+//check a no is even or add using switch case
 #include<stdio.h>
 int main()
 {
