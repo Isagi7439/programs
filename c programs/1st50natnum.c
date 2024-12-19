@@ -1,4 +1,4 @@
-//1st 50 natural numbers
+//1st 50 even numbers
 #include<stdio.h>
 int main()
 {
